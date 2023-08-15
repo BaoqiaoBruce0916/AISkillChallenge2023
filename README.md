@@ -20,7 +20,7 @@ AI Skill Challenge 2023  机器人助理小明项目
 - **outing投票**  
    Power Virtual Agent, Power Automate, SharePoint Online, Microsoft Teams
 - **买一些啤酒**  
-   Power Virutal Agent, AI Builder, Power Apps, Power Automate, SharePoint Online, Microsoft Teams
+   Power Virutal Agent, AI Builder, Power Apps, Power Automate, SharePoint Online, Microsoft Teams, Adaptive Cards
 - **查询天气**  
    Power Virtual Agent, Power Automate, Weather Api		
    
