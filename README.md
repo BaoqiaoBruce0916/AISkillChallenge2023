@@ -2,6 +2,7 @@
 AI Skill Challenge 2023
 ### 机器人助理小明项目主要是使用了Power Virtual Agent, AI Builder来完成的。有三个功能
 - 项目总览
+  
   ![系统Overview](https://github.com/BaoqiaoBruce0916/AISkillChallenge2023/blob/main/assets/img/BotOverview.png)
 
 - 模块功能介绍
