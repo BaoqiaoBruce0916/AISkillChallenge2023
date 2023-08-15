@@ -1,6 +1,6 @@
 # AISkillChallenge2023
 AI Skill Challenge 2023
-# 机器人助理小明项目主要是使用了Power Virtual Agent, AI Builder来完成的。有三个功能
+### 机器人助理小明项目主要是使用了Power Virtual Agent, AI Builder来完成的。有三个功能
 1. outing投票
    主要用于辅助公司，团队在组织Outing活动时候的投票事项，方便Outing活动的组织，投票及统计
 3. 买一些啤酒
