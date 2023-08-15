@@ -7,6 +7,7 @@ AI Skill Challenge 2023
 
 - 模块功能介绍
 1. outing投票
+   
    主要用于辅助公司，团队在组织Outing活动时候的投票事项，方便Outing活动的组织，投票及统计
 3. 买一些啤酒
    使用AI Builder功能识别用户想购买的啤酒品牌，在Power Apps 应用中进行啤酒购买
