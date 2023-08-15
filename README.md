@@ -1,5 +1,5 @@
 # AISkillChallenge2023
-AI Skill Challenge 2023  机器人助理小明
+AI Skill Challenge 2023  机器人助理小明项目
 
 
 ### 1.项目总览
