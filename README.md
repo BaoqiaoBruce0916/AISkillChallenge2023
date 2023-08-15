@@ -6,8 +6,7 @@ AI Skill Challenge 2023
   ![系统Overview](https://github.com/BaoqiaoBruce0916/AISkillChallenge2023/blob/main/assets/img/BotOverview.png)
 
 - 模块功能介绍
-1. outing投票
-   
+1. outing投票  
    主要用于辅助公司，团队在组织Outing活动时候的投票事项，方便Outing活动的组织，投票及统计
 3. 买一些啤酒
 
