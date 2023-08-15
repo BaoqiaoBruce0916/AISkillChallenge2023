@@ -17,10 +17,10 @@ AI Skill Challenge 2023
 
 
 ### 3.模块使用到的一些技术或者服务
-1. **outing投票**  
+- **outing投票**  
    Power Virtual Agent, Power Automate, SharePoint Online, Microsoft Teams
-2. **买一些啤酒**  
+- **买一些啤酒**  
    Power Virutal Agent, AI Builder, Power Apps, Power Automate, SharePoint Online, Microsoft Teams
-3. **查询天气**  
+- **查询天气**  
    Power Virtual Agent, Power Automate, Weather Api		
    
